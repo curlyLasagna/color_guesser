@@ -3,6 +3,8 @@
 /* PauseChamp ... when taking time
 /* Add twitch emotes 
 /*********************************************** */
+
+alert("HELLO WORLD")
 var 
     // Variables
     square_count = 6,
